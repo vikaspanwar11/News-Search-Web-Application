@@ -29,11 +29,11 @@ This is a web application that displays news articles based on user search terms
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/news-search-app.git
+   git clone https://github.com/vikaspanwar11/News-Search-Web-Application.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd news-search-app
+   cd News-Search-Web-Application
    ```
 3. **Open `index.html` in your web browser.**
 
